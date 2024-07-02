@@ -8,4 +8,4 @@ services:
         TEST: "Hello World111"
     container_name: node-app
     ports:
-      - "3000:3000"
+      - "3311:3000"
